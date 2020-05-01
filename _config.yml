@@ -1,10 +1,10 @@
 # Site settings
-title: 跟我一起吧 (ฅ´ω`ฅ)
+title: 天才H (ฅ´ω`ฅ)
 SEOTitle: 天才H的博客
 header-img: img/post-bg-desk.jpg
 email: 591184842@qq.com
-description: "I cannot choose the best but the best chooses me."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+description: "Blog"
+keyword: "程序媛, 记录, 天才H的博客, 学习, Java后端, 无限可能X"
 url: "http://zijing-he.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
